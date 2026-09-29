@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/extract-links", "destination": "/api/extract-links" }
+    { "source": "/extract-links", "destination": "/api/extract_links" }
   ]
 }
